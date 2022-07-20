@@ -9,7 +9,7 @@
       excercises instead of books. This for me (=personal opinion) is a much faster way of understanding and applying these 
       concepts.
 - 👯 I’m at the moment as a side project coding a Becode DrumMachine in Javascript, HTML and CSS but I'm not limiting myself 
-      to these basics, I'm also taking investigating various front-end frameworks and libraries through-out this learning
+      to these basics, I'm also investigating various front-end frameworks and libraries through-out this learning
       experience.
 - 💬 feel free to ask me anything! I may not know everything but I will always at least try to be of assistance.
 - 📫 sudo get in touch: DimiBertolami@gmail.com   @Discord: DimiBertolami#3509 GSM: ***+32498798170***
